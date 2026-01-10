@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:selfoss="https://selfoss.aditu.de/">
+    <selfoss:meta generatedBy="selfoss-2.19" version="1.0" createdOn="Sat, 10 Jan 2026 11:28:23 +0700"/>
+    <head>
+        <title>sirche's subscriptions in selfoss</title>
+    </head>
+    <body>
+        <outline title="BBC中文" text="BBC中文" xmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.bbc.co.uk\/zhongwen\/simp\/index.xml&quot;}"/>
+        <outline title="Buzzing" text="Buzzing" xmlUrl="https://www.buzzing.cc/zh-Hant/feed.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.buzzing.cc\/zh-Hant\/feed.xml&quot;}"/>
+        <outline title="Deutsche Welle: DW-WORLD.DE" text="Deutsche Welle: DW-WORLD.DE" xmlUrl="https://rss.dw.com/rdf/rss-chi-all" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/rss.dw.com\/rdf\/rss-chi-all&quot;}"/>
+        <outline title="中央社即時新聞 兩岸透視" text="中央社即時新聞 兩岸透視" xmlUrl="https://feeds.feedburner.com/rsscna/mainland" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/feeds.feedburner.com\/rsscna\/mainland&quot;}"/>
+        <outline title="加拿大國際廣播電臺-最新消息" text="加拿大國際廣播電臺-最新消息" xmlUrl="https://ici.radio-canada.ca/rci/zh-hans/%E6%9C%80%E6%96%B0%E4%BF%A1%E6%81%AF" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/ici.radio-canada.ca\/rci\/zh-hans\/%E6%9C%80%E6%96%B0%E4%BF%A1%E6%81%AF&quot;}"/>
+        <outline title="國際新聞 - 自由時報" text="國際新聞 - 自由時報" xmlUrl="https://news.ltn.com.tw/rss/world.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/news.ltn.com.tw\/rss\/world.xml&quot;}"/>
+        <outline title="法广" text="法广" xmlUrl="https://feedx.net/rss/rfi.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/feedx.net\/rss\/rfi.xml&quot;}"/>
+        <outline title="紐約時報中文網 國際縱覽" text="紐約時報中文網 國際縱覽" xmlUrl="https://cn.nytimes.com/rss/zh-hant/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/cn.nytimes.com\/rss\/zh-hant\/&quot;}"/>
+    </body>
+</opml>
