@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
